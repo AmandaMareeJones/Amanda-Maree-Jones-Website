@@ -86,7 +86,7 @@ p {
   text-decoration: underline;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 600px) {
   h1 {
     text-align: center;
     font-size: 44px;
