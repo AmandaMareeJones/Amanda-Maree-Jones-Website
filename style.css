@@ -104,4 +104,13 @@ p {
     text-align: center;
     font-size: 18px;
   }
+  .media-link {
+    display: block;
+    text-align: center;
+    margin: 0 20px;
+  }
+
+  .primary-link:hover {
+    color: white;
+  }
 }
