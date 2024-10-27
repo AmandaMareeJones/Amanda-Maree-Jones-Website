@@ -87,6 +87,24 @@ p {
   text-decoration: underline;
 }
 
+footer {
+  margin: 80px;
+}
+
+footer a {
+  margin: 0 20px;
+  font-size: 30px;
+  padding: 10px 18px;
+  border-radius: 50%;
+  color: var(--primary-color);
+  transition: all 100ms ease-in-out;
+}
+
+footer a:hover {
+  color: white;
+  background: var(--primary-color);
+}
+
 @media (max-width: 600px) {
   h1 {
     text-align: center;
